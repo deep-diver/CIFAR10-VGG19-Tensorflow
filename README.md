@@ -14,6 +14,9 @@ While writing the notebook, I have noticed that I should be able to answer the f
 6. Know the shape of the input data 
 7. Know how to re-scale the original image(data) to fit into the model
 
+## Prediction Result
+<img src='./result.png' alt='prediction result'/>
+
 ## References
 
 - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
